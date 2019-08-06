@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Test Post2"
+categories: [develop]
+date:   2014-12-10
+---
+
+hi
